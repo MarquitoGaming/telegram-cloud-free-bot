@@ -1,0 +1,13 @@
+{
+  "name": "chisel-heroku",
+  "description": "Deploy chisel to Heroku as a SOCKS5 proxy.",
+  "stack": "container",
+  "env": {
+    "bot_token": {
+      "description": "El token del bot"
+    },
+    "user_key": {
+      "description": "La clave de la api (contactar a https://t.me/obisoftdev)"
+    }
+  }
+}
