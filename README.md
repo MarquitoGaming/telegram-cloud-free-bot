@@ -1,7 +1,7 @@
 # telegram-cloud-free-bot
 Bot de telegram para la descarga de contenido gratis desde internet  a las nubes cubanas
 
-#como usar?
+# Como Usar?
    ```
    abrir terminal (cmd)
    >> cd ../path/to/source
@@ -12,6 +12,5 @@ Bot de telegram para la descarga de contenido gratis desde internet  a las nubes
    >> git push heroku master
    ```
 
-#hacer deploy?
-Usar Este Boton
+# Hacer El Deploy?
 [![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Obysoftt/telegram-cloud-free-bot)
