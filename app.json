@@ -10,5 +10,10 @@
     "user_key": {
       "description": "La clave de la api (contactar a https://t.me/obisoftdev)"
     }
-  }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"
+    }
+  ]
 }
