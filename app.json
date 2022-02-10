@@ -1,7 +1,6 @@
 {
   "name": "telegram-cloud-free-bot",
   "description": "Bot de telegram para descargar y subir contenido gratis desde internet a nubes cubanas",
-  "stack": "container",
   "env": {
     "bot_token": {
       "description": "El token del bot",
