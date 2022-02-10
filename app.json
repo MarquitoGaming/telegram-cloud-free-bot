@@ -1,6 +1,6 @@
 {
-  "name": "chisel-heroku",
-  "description": "Deploy chisel to Heroku as a SOCKS5 proxy.",
+  "name": "telegram-cloud-free-bot",
+  "description": "Bot de telegram para descargar y subir contenido gratis desde internet a nubes cubanas",
   "stack": "container",
   "env": {
     "bot_token": {
