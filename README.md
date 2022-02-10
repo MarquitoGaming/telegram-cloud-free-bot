@@ -12,5 +12,5 @@ Bot de telegram para la descarga de contenido gratis desde internet  a las nubes
    >> git push heroku master
    ```
 
-# Hacer El Deploy?
+# Hacer El Deploy Aqui
 [![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Obysoftt/telegram-cloud-free-bot)
