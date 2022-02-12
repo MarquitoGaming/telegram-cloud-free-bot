@@ -25,10 +25,10 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
     },
     {
-      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+      "url": "https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"
     }
   ]
 }
