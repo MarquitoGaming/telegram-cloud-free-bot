@@ -2,6 +2,18 @@
   "name": "telegram-cloud-free-bot",
   "description": "Bot de telegram para descargar y subir contenido gratis desde internet a nubes cubanas",
   "env": {
+    "api_id": {
+      "description": "El Api Id De Tu Cuenta De Telegram",
+      "value":""
+    },
+    "api_hash": {
+      "description": "El Api Hash De Tu Cuenta De Telegam",
+      "value":""
+    },
+     "tl_admin_user": {
+      "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
+      "value":"obisoftdev"
+    },
     "bot_token": {
       "description": "El token del bot",
       "value":""
@@ -13,7 +25,8 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"
+      "url": "https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122",
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
     }
   ]
 }
