@@ -1,0 +1,7 @@
+requests
+bs4
+user_agent
+youtube_dl
+mega.py
+requests_toolbelt
+telethon
