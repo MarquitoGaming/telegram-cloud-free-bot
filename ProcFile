@@ -1,1 +1,1 @@
-﻿tgcloudbot: mono tg-cloud-bot.exe
+﻿worker: python3 run.py
